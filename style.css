@@ -1,0 +1,39 @@
+body {
+  padding: 100px;
+}
+
+.submit_area {
+  padding: 40px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.transaction_area {
+  display: none;
+}
+
+.Balance,
+.deposite,
+.withdraw {
+  padding: 20px;
+  margin: 20px;
+  color: aliceblue;
+  border-radius: 10px;
+}
+
+.deposite {
+  background: slateblue;
+}
+
+.withdraw {
+  background: lightsalmon;
+}
+
+.Balance {
+  background: orange;
+}
+
+.calculation_area {
+  margin-top: 60px;
+}
